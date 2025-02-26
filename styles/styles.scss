@@ -1,0 +1,26 @@
+@import 
+    'normalize', 
+    'fonts', 
+    'mixins',
+    'media',
+    'variables',
+    'utils',
+    'globals';
+
+@import 
+    'buttons/button',
+    'buttons/burger-button',
+    'buttons/cross-button',
+    'blocks/grid',
+    'blocks/mobile-overlay',
+    'blocks/section',
+    'blocks/puddle-bg',
+    'blocks/header',
+    'blocks/hero',
+    'blocks/services/services',
+    'blocks/services/service-card',
+    'blocks/services/banner',
+    'blocks/studies',
+    'blocks/process',
+    'blocks/team/team',
+    'blocks/team/team-card';
