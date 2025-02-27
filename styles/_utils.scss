@@ -19,3 +19,12 @@
         display: none !important;
     }
 }
+
+.hide-scrollbar {
+    scrollbar-width: none;
+    overflow: -moz-scrollbars-none;
+    
+    &::-webkit-scrollbar {
+      width: 0 !important;
+    }
+}
